@@ -1,0 +1,61 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  scroll-behavior: smooth;
+}
+.container{
+  width: 100vw;
+  height: 100vh;
+  background: rgb(246, 247, 247);
+}
+
+.box{
+  margin-left: 5%;
+  padding-top:15%;
+  
+}
+.box h1{
+  font-size: 50px;
+  color: black;
+  margin-bottom: 20px;
+}
+span{
+  color: rgb(30, 0, 255);
+}
+.box p{
+  color: rgb(34, 7, 141);
+  line-height: 22px;
+}
+.box a{
+  background-color: rgb(41, 17, 224);
+  color: rgb(248, 243, 243);
+  text-decoration: none;
+  font-weight: 50px;
+  display: inline-block;
+  margin: 30px 0;
+  border-radius: 5px;
+  width: 70px;
+  height: 10px;
+  padding: 10px 19px;
+  padding-bottom: 25px;
+  border-color: black; 
+}
+
+.container {
+  background-image: url(./assets/photo\ for\ portfolio.avif);
+  background-repeat: no-repeat;
+  width: 1500px;
+  background-size: cover;
+}
+
+.images{
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
+
+span1{
+  color: blue;
+}
+
