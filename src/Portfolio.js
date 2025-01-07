@@ -16,7 +16,7 @@ function Portfolio() {
 
 
         <div className="box">
-          <h1>I’m Rubina <span>Adhikari(Hello)</span></h1>
+          <h1>I’m Rubina <span>Adhikari</span>[Welcome]</h1>
           <p>
             I am a web developer with experience in HTML, CSS, and JavaScript. I enjoy creating
             beautiful and responsive websites.
